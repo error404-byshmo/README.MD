@@ -7,7 +7,7 @@
 <p align="center">
   📍 Brazil | 🎓 Statistics Student @ UFC <br>
   💬 I make data speak & stories breathe <br>
-  🧠 Reel scriptwriter • Storyteller • Pattern hunter
+  🧠 Pattern hunter
 </p>
 
 ---
